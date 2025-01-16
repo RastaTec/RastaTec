@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source platforms.
 - 📫 How to reach me email at kentepetersen58@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love music, dogs, reading novels and learning knew hobbies!
+- ⚡ Fun fact: I love music, dogs, coffee, reading novels and learning knew hobbies!
 
 <!---
 RastaTec/RastaTec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
